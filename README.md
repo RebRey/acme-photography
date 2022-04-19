@@ -1,8 +1,7 @@
 # poetry-lens
-
 A responsive single page photography website using a mobile first approach.
 
-You can view my site here [Click Me](https://rebrey.github.io/tindog-landing-page/) 
+You can view my site here [Click Me](https://rebrey.github.io/poetry-lense/) 
 
 You can view the tutorial here [Click Me](https://www.youtube.com/watch?v=XsEnj-1hG2o) 
 
@@ -14,7 +13,6 @@ Mobile-first is when we start by writing our CSS for mobile devices and then use
 When we style for desktop-first, we're adding widths, columns, and moving things around. We're adding complexity. We're doing this for good reason, as we have more real-estate to work with. Code for larger screens is usually more complicated than the codes for smaller screens. This is why coding mobile first helps simplify your code.
 
 ## Topics
-
 - HTML
 - CSS
 - Responsive Design
