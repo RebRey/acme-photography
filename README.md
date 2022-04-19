@@ -1,7 +1,7 @@
 # poetry-lens
 A responsive single page photography website using a mobile first approach.
 
-You can view my site here [Click Me](https://rebrey.github.io/poetry-lense/) 
+You can view my site here [Click Me](https://rebrey.github.io/poetry-lens/) 
 
 You can view the tutorial here [Click Me](https://www.youtube.com/watch?v=XsEnj-1hG2o) 
 
